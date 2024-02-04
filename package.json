@@ -5,8 +5,17 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
+    "ci": "echo \"Error: no ci configured\""
   },
+  "repository": {
+     "type": "git",
+      "url": "git+https://github.com/Klerta/COMP2156.git"
+    },
   "keywords": [],
   "author": "Klerta Terziu",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klerta/COMP2156/issues
+ },
+  "homepage": "https://github.com/Klerta/COMP2156#readme"
 }
